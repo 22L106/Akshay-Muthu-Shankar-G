@@ -6,10 +6,9 @@
 🛠️ Embedded Systems | STM32 | C++ | Python | Software Development
 
 ## 📌 Featured Projects
-- 🤖 [Anatomy EduAssist] – AI chatbot for anatomy learning  
+- 🤖 Anatomy EduAssist – AI chatbot for anatomy learning  
 - 🪖 Smart Helmet System – IoT & Embedded solution ensuring H2H, H2V connectivity and smart secure features.
 - 🔐 Firmware Project for Lauritz Knudsen (under NDA) – Embedded C++ with STM32
-- 
 
 ## 🚀 Currently Learning
 - Operating Systems  
